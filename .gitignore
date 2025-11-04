@@ -11,6 +11,7 @@
 # freeglut downloaded archives and extracted folders
 /freeglut/
 *.zip
+freeglut.dll
 
 # Visual Studio
 .vs/
