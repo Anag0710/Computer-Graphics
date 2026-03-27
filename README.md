@@ -51,3 +51,28 @@ Contributing
 License
 - MIT — see `LICENSE` for details.
 
+
+
+I have completed a Data Science capstone project as part of my IBM certification. I want to enhance and upgrade this project to make it strong enough for my professional portfolio, while still clearly retaining its identity as an IBM capstone project.
+
+Help me improve it in the following ways:
+
+1. Strengthen the problem statement and make it more real-world and impactful.
+2. Improve the data analysis with deeper insights, better feature engineering, and stronger storytelling.
+3. Upgrade visualizations to be more professional, clear, and portfolio-worthy.
+4. Enhance the machine learning/modeling section with better justification, tuning, and evaluation.
+5. Add industry-level elements such as:
+   - Business impact explanation
+   - Deployment ideas (API, dashboard, or app)
+   - Scalability considerations
+6. Improve the overall presentation (GitHub README, structure, documentation, and clarity).
+7. Suggest additions that make it stand out to recruiters without changing the core project idea or removing its IBM certification context.
+
+Important constraints:
+
+- Do NOT change the core topic, dataset, or original objective drastically.
+- Keep the “IBM Data Science Capstone Project” identity visible and respected.
+- Focus on polishing, deepening, and professionalizing—not replacing.
+
+Ask me for my project details before making suggestions, and then give step-by-step improvements.
+
